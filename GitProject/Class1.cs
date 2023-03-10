@@ -9,5 +9,6 @@ namespace GitProject
     internal class Class1
     {
         int count = 1000;
+
     }
 }
